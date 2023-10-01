@@ -1,1 +1,1 @@
-﻿!(flask_app/static/assets/readme_imgs/TrixEx.png)
+﻿![Alt Text](flask_app/static/assets/readme_imgs/TrixEx.png)
