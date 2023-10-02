@@ -1,20 +1,24 @@
-﻿![Alt Text](flask_app/static/assets/readme_imgs/TrixEx.png)
+﻿
 
-TrixEx is a social platform designed for web developers to exchange front-end components.
 
-![Alt text](flask_app/static/assets/readme_imgs/home.png)
+<img src="flask_app/static/assets/readme_imgs/home.png" width="700" alt="Image Description">
+
 
 ## About TrixEx
 
-TrixEx was my first non-tutorial project built. It is a demo full-stack project for demonstrational purposes for my portfolio. You can get the full feel for the site without creating an account [here](http://3.144.111.10/index). 
+TrixEx is a social platform designed for web developers to exchange front-end components. TrixEx was my first non-tutorial project built. It is a demo full-stack project for demonstrational purposes for my portfolio. You can get the full feel for the site without creating an account [here](http://3.144.111.10/index). 
 
 ## Build Stack
+
 ![Static Badge](https://img.shields.io/badge/Python%20-%20%239A85BE)    ![Static Badge](https://img.shields.io/badge/Flask-%20%239A85BE)    ![Static Badge](https://img.shields.io/badge/MySQL-%20%239A85BE)    ![Static Badge](https://img.shields.io/badge/pip-%20%239A85BE) ![Static Badge](https://img.shields.io/badge/AWS%20EC2-%20%239A85BE) ![Static Badge](https://img.shields.io/badge/MVC%20Design-%20%239A85BE)
 
  
 
 
 ## Features
+
+#### Security
+
 🔒 User Authentication & Authorization
 * Password ***hashing***
 * Registration ***validation***
@@ -22,14 +26,26 @@ TrixEx was my first non-tutorial project built. It is a demo full-stack project 
 
 ---
 
-![Alt text](flask_app/static/assets/readme_imgs/create.png)
+<br>
+
+<img src="flask_app/static/assets/readme_imgs/create.png" width="700" alt="Image Description">
+
+<br>
+
+
 To ***create*** a project, paste your HTML, CSS, and JS into the browser and watch your component come to life in real time.
 * Set the project to ***private*** and it will only be visible to the creator.
 * Set the project to ***public*** for the whole TrixEx community to see. 
 
 ---
 
-![Alt text](flask_app/static/assets/readme_imgs/follow.png)
+<br>
+
+<img src="flask_app/static/assets/readme_imgs/follow.png" width="450" alt="Image Description">
+
+<br>
+
+
 Viewing someone's component will show the code for it. If you like their work you can view their ***profile page*** and it will display their other public projects. 
 
 ***Follow*** users to show your support and keep track of components that interest you with the ***favorite*** button.
@@ -40,7 +56,11 @@ Viewing someone's component will show the code for it. If you like their work yo
 
 ---
 
-![Alt text](flask_app/static/assets/readme_imgs/comment.png)
+<br>
+
+<img src="flask_app/static/assets/readme_imgs/comment.png" width="450" alt="Image Description">
+
+<br>
 
 Drop a ***comment*** or ***reply*** to get involved with other users in the TrixEx community.
 
@@ -49,16 +69,27 @@ Drop a ***comment*** or ***reply*** to get involved with other users in the Trix
 
 ---
 
-![Alt text](flask_app/static/assets/readme_imgs/search.png)
+<br>
+
+<img src="flask_app/static/assets/readme_imgs/search.png" width="375" alt="Image Description">
+
+<br>
+
 ***Search*** will return users or project results.
 
 ---
 
-![Alt text](flask_app/static/assets/readme_imgs/trixexmobile.png)
+<br>
+
+<img src="flask_app/static/assets/readme_imgs/trixexmobile.png" width="375" alt="Image Description">
+
+<br>
 
 ***Responsive*** design to fit any device.
 
 ---
+
+<br>
 
 ***Adminstrative*** dashboard for approved users to manage user activity.
 
