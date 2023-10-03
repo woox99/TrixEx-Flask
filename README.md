@@ -6,7 +6,7 @@
 
 ## About TrixEx
 
-TrixEx is a social platform designed for web developers to exchange front-end components. TrixEx is a full-stack demo project for my [portfolio](https://woox99.github.io/Portfolio/), and was my first non-tutorial project built. You can get the full feel for the site without creating an account [here](http://3.144.111.10/index). 
+TrixEx is a social platform designed for web developers to exchange front-end components. TrixEx is a full-stack demo project for my <a href="https://woox99.github.io/Portfolio/" target="_blank">portfolio</a>, and was my first non-tutorial project built. You can get the full feel for the site without creating an account <a href="http://3.144.111.10/index" target="_blank">here</a>. 
 
 ## Build Stack
 
