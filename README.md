@@ -12,10 +12,19 @@ TrixEx is a social platform designed for web developers to exchange front-end co
 
 ![Static Badge](https://img.shields.io/badge/Python%20-%20%239A85BE)    ![Static Badge](https://img.shields.io/badge/Flask-%20%239A85BE)    ![Static Badge](https://img.shields.io/badge/MySQL-%20%239A85BE)    ![Static Badge](https://img.shields.io/badge/pip-%20%239A85BE) ![Static Badge](https://img.shields.io/badge/AWS%20EC2-%20%239A85BE) ![Static Badge](https://img.shields.io/badge/MVC%20Design-%20%239A85BE)
 
- 
+
+## Overview
+
+* Adhered to the MVC design pattern, for a well-structured separation of concerns through modularization.
+* Employed the Flask framework for rapid development, incorporating a range of functionality including Jinja2
+templating, JSON response handling, HTTP routing methods, & session management.
+* Established 'many-to-many relationships' with MySQL for features like followers, favorites, comments, and
+replies, enhancing user engagement and interaction.
+* Optimized deployment on AWS (EC2) for rapid spin-up time & cost-effective deployment.
 
 
-## Features
+
+## Features Walkthrough
 
 #### Security
 
